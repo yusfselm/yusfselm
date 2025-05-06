@@ -1,6 +1,4 @@
 ## Hi there 👋
-[yusfselm](https://github.com/user-attachments/assets/dab7e0c3-5e59-4422-94db-3d8eb5110829)
-
 
 <!--
 **yusfselm/yusfselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
